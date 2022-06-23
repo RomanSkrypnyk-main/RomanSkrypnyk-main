@@ -7,7 +7,7 @@
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=RomanSkrypnyk-main)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = [RomanSkrypnyk-main/wea-bot-telegram](https://github.com/RomanSkrypnyk-main/wea-bot-telegram.git))
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/RomanSkrypnyk-main/wea-bot-telegram.git)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanSkrypnyk-main&layout=compact)](https://github.com/RomanSkrypnyk-main)
 
