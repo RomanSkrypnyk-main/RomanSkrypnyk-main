@@ -8,7 +8,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=RomanSkrypnyk-main)
 
-![Hits]<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+![Hits](<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanSkrypnyk-main&layout=compact)](https://github.com/RomanSkrypnyk-main)
 
