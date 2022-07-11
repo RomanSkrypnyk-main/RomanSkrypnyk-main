@@ -1,4 +1,4 @@
-### Hi there 👋  ![Profile View Counter](https://komarev.com/ghpvc/?username=RomanSkrypnyk-main)
+### Hi there 👋 
 
 - 🔭 I’m currently working on GL
 - 🌱 I’m currently learning JAVA
